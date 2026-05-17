@@ -6,7 +6,7 @@
 ![Static Badge](https://img.shields.io/badge/Laravel-%23FF2D20?style=for-the-badge&logo=laravel&labelColor=black&link=https%3A%2F%2Fgithub.com%2Flaravel)
 ![Static Badge](https://img.shields.io/badge/Moodle-%23F98012?style=for-the-badge&logo=moodle&labelColor=black&link=https%3A%2F%2Fgithub.com%2Fmoodle%2Fmoodle)
 
-## Habilidades
+## Habilidades <img src="https://static.wikia.nocookie.net/leagueoflegends/images/2/2d/Happy_To_See_You_Emote.png/revision/latest?cb=20171120231913" width="64px" valign="middle">
 Los lenguajes principales en los que eh programado han sido:
 ![Static Badge](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&link=https%3A%2F%2Fwww.python.org)
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-14354C?style=flat-square&logo=c%2B%2B&labelColor=%2300599C&color=%2300599C&link=https%3A%2F%2Fisocpp.org)
@@ -14,6 +14,7 @@ Los lenguajes principales en los que eh programado han sido:
 Además de utilizar FrameWorks y Bibliotecas como:
 ![Static Badge](https://img.shields.io/badge/Django-%23092E20?logo=Django&link=https%3A%2F%2Fwww.djangoproject.com)
 ![Static Badge](https://img.shields.io/badge/Laravel-%239e1b13?logo=Laravel&link=https%3A%2F%2Flaravel.com)
+![Static Badge](https://img.shields.io/badge/React-%2361DAFB?logo=React&logoColor=white&link=https%3A%2F%2Fes.react.dev)
 ![Static Badge](https://img.shields.io/badge/NumPy-%23013243?logo=NumPy&link=https%3A%2F%2Fnumpy.org)
 ![Static Badge](https://img.shields.io/badge/Pandas-%23150458?logo=pandas&link=https%3A%2F%2Fpandas.pydata.org)
 
