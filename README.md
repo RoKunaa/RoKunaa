@@ -1,7 +1,7 @@
 ## Un poco sobre mi <img src="https://cdn.7tv.app/emote/01GDCCKX7G00024RGDR8VKP3KE/4x.avif" width="64px" valign="middle">
 * 🎓 Estudiante de Ingeniería Civil Informática en la UTFSM.
 * 💻 Me gustaria llegar a ser un Full Stack Developer.
-* 🚀 Mi experiencia en prácticas a sido con el Framework de [Laravel](https://laravel.com), además de ser Administrador de Sistemas en [Moodle](https://moodle.com).
+* 🚀 Mi experiencia en prácticas ha sido con el Framework de [Laravel](https://laravel.com), además de ser Administrador de Sistemas en [Moodle](https://moodle.com).
 
 ![Static Badge](https://img.shields.io/badge/Laravel-%23FF2D20?style=for-the-badge&logo=laravel&labelColor=black&link=https%3A%2F%2Fgithub.com%2Flaravel)
 ![Static Badge](https://img.shields.io/badge/Moodle-%23F98012?style=for-the-badge&logo=moodle&labelColor=black&link=https%3A%2F%2Fgithub.com%2Fmoodle%2Fmoodle)
