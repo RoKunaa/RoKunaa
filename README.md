@@ -3,21 +3,21 @@
 * 💻 Me gustaria llegar a ser un Full Stack Developer.
 * 🚀 Mi experiencia en prácticas ha sido con el Framework de [Laravel](https://laravel.com), además de ser Administrador de Sistemas en [Moodle](https://moodle.com).
 
-![Static Badge](https://img.shields.io/badge/Laravel-%23FF2D20?style=for-the-badge&logo=laravel&labelColor=black&link=https%3A%2F%2Fgithub.com%2Flaravel)
-![Static Badge](https://img.shields.io/badge/Moodle-%23F98012?style=for-the-badge&logo=moodle&labelColor=black&link=https%3A%2F%2Fgithub.com%2Fmoodle%2Fmoodle)
+[![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20?style=for-the-badge&logo=laravel&labelColor=black)](https://github.com/laravel)
+[![Moodle](https://img.shields.io/badge/Moodle-%23F98012?style=for-the-badge&logo=moodle&labelColor=black)](https://github.com/moodle/moodle)
 
 ## Habilidades <img src="https://static.wikia.nocookie.net/leagueoflegends/images/2/2d/Happy_To_See_You_Emote.png/revision/latest?cb=20171120231913" width="64px" valign="middle">
 Los lenguajes principales en los que eh programado han sido:
-![Static Badge](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&link=https%3A%2F%2Fwww.python.org)
-![Static Badge](https://img.shields.io/badge/C%2B%2B-14354C?style=flat-square&logo=c%2B%2B&labelColor=%2300599C&color=%2300599C&link=https%3A%2F%2Fisocpp.org)
-![Static Badge](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white&link=https%3A%2F%2Fwww.php.net)
+[![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python)](https://www.python.org/)
+[![C++](https://img.shields.io/badge/C%2B%2B-14354C?style=flat-square&logo=c%2B%2B&labelColor=%2300599C&color=%2300599C)](https://isocpp.org/)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)](https://www.php.net/)
 
 Además de utilizar FrameWorks y Bibliotecas como:
-![Static Badge](https://img.shields.io/badge/Django-%23092E20?logo=Django&link=https%3A%2F%2Fwww.djangoproject.com)
-![Static Badge](https://img.shields.io/badge/Laravel-%239e1b13?logo=Laravel&link=https%3A%2F%2Flaravel.com)
-![Static Badge](https://img.shields.io/badge/React-%2361DAFB?logo=React&logoColor=white&link=https%3A%2F%2Fes.react.dev)
-![Static Badge](https://img.shields.io/badge/NumPy-%23013243?logo=NumPy&link=https%3A%2F%2Fnumpy.org)
-![Static Badge](https://img.shields.io/badge/Pandas-%23150458?logo=pandas&link=https%3A%2F%2Fpandas.pydata.org)
+[![Django](https://img.shields.io/badge/Django-%23092E20?style=flat-square&logo=Django)](https://www.djangoproject.com/)
+[![Laravel](https://img.shields.io/badge/Laravel-%239e1b13?style=flat-square&logo=Laravel)](https://laravel.com/)
+[![React](https://img.shields.io/badge/React-%2361DAFB?style=flat-square&logo=React&logoColor=white)](https://es.react.dev/)
+[![NumPy](https://img.shields.io/badge/NumPy-%23013243?style=flat-square&logo=NumPy)](https://numpy.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-%23150458?style=flat-square&logo=pandas)](https://pandas.pydata.org/)
 
 
 <!--
