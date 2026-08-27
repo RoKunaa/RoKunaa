@@ -9,9 +9,7 @@
 ## Habilidades <img src="https://static.wikia.nocookie.net/leagueoflegends/images/2/2d/Happy_To_See_You_Emote.png/revision/latest?cb=20171120231913" width="64px" valign="middle">
 Los lenguajes principales en los que eh programado han sido:
 ![Static Badge](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&link=https%3A%2F%2Fwww.python.org)
-
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-14354C?style=flat-square&logo=c%2B%2B&labelColor=%2300599C&color=%2300599C&link=https%3A%2F%2Fisocpp.org)
-
 ![Static Badge](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white&link=https%3A%2F%2Fwww.php.net)
 
 Además de utilizar FrameWorks y Bibliotecas como:
