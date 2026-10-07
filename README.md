@@ -7,7 +7,7 @@
 [![Moodle](https://img.shields.io/badge/Moodle-%23F98012?style=for-the-badge&logo=moodle&labelColor=black)](https://github.com/moodle/moodle)
 
 ## Habilidades <img src="https://static.wikia.nocookie.net/leagueoflegends/images/2/2d/Happy_To_See_You_Emote.png/revision/latest?cb=20171120231913" width="64px" valign="middle">
-Los lenguajes principales en los que eh programado han sido:
+Los lenguajes principales en los que he programado han sido:
 [![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python)](https://www.python.org/)
 [![C++](https://img.shields.io/badge/C%2B%2B-14354C?style=flat-square&logo=c%2B%2B&labelColor=%2300599C&color=%2300599C)](https://isocpp.org/)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)](https://www.php.net/)
